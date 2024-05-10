@@ -11,8 +11,8 @@ a:focus {
 
 body {
     height: 2700px;
-    background: rgb(19,31,51);
-    background: linear-gradient(27deg, rgba(19,31,51,1) 24%, rgba(19,33,53,1) 26%,rgba(37,97,111,1) 98%);
+    background: rgb(12,33,39);
+    background: linear-gradient(74deg, rgba(12,33,39,1) 5%, rgba(20,81,99,1) 90%);
 }
 
 .cabecalho {
@@ -21,10 +21,10 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #131F33;
+    background-color: #0c2127;
 }
 
-#imagem-logo {
+.logo-foto {
     height: 190px;
 }
 
